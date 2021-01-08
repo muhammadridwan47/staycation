@@ -1,12 +1,12 @@
 <h1 align="center">
 	<a href="http://bit.ly/zwallet-application/">
-		ZWallet Mobile Version
+		Staycation
 	</a>
 </h1>
 
 <p align="center">
-	<strong>Simpan uang tanpa dompet</strong><br>
-	Katakan <strong>Selamat Tinggal</strong> pada dompetmu <i>Sekarang</i>.
+	<strong>Booking Hotel Secara mudah</strong><br>
+	Dimanapun dan Kapanpun.
 </p>
 
 
